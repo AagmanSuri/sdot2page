@@ -1,5 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
 h1{
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 2rem;
+    font-size: xxx-large;
 }
 
+img{
+    height : 550px;
+    width: 550px;
+    margin-left: 45rem;
+}
+h2{
+    height : 550px;
+    width: 550px;
+    margin-left:7.5rem;
+    margin-top:-23rem ;
+    margin-bottom: 0rem;
+}
+ul{
+    height : 550px;
+    width: 550px;
+    margin-top:-25rem;
+    margin-left: 5rem;
+    text-decoration: none;
+    list-style-type: none;
+}
+li{
+    text-decoration: none;
+}
+.Learn{
+    
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+   margin-left: 7rem;
+    border: 1px solid black;
+   
+    padding: 1rem 1rem 1rem 1rem;
+    
+    border-radius: 3rem;
+    color: black ;
+}
+.circle{
+    border: 1px solid rgba(187, 187, 187, 0.575);
+    margin-top: -45rem;
+    margin-left: 2rem;
+    border-radius: 5rem;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(187, 187, 187, 0.575);
+    border-radius: 50%;
+
+}
